@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="user" type="id">user</item>
+    <item name="pw" type="id">pass</item>
+    <item name="btn_signin" type="id">button_signin</item>
+    <item name="subTitle" type="id">sub_Title</item>
+</resources>
